@@ -4,14 +4,8 @@ Welcome to the **All-in-One Hacking Toolkit** — the ultimate toolkit designed 
 
 ## Pro Version of HackingTool
 Check out the **Pro Version** of the HackingToolkit for even more powerful features and tools:  
-[Get the Pro Version here](https://topmate.io/codingranjith/1241494)
+[Get the Pro Version here] +92 347 5549695
 
-![Hacking Toolkit](https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/main.jpg)
-
----
-
-### Install Kali Linux on Windows 10 Without VirtualBox
-Watch the full tutorial on [YouTube](https://www.youtube.com/@AutoGPT_Live) to install **Kali Linux** directly on your Windows 10 system without the need for VirtualBox or other virtual machines!
 
 ---
 
@@ -273,9 +267,6 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 - [Whitespace](https://github.com/beardog108/snow10)
 
 
-### Other tools
-
-<img src="https://github.com/CodingRanjith/hackingtoolkit/blob/main/images/h16.jpg" alt="Other tools"/>
 
 #### SocialMedia Bruteforce
 - [Instagram Attack](https://github.com/chinoogawa/instaBrute)
@@ -316,7 +307,7 @@ The **HackingToolkit** has been updated to version **3.0**, packed with amazing 
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/CodingRanjith/hackingtoolkit.git
+    git clone https://github.com/Athexhacker/hackingtoolkit.git
     
     chmod +x hackingtoolkit
     
@@ -332,13 +323,6 @@ GNU General Public License v3.0
 
 * This software is provided for educational use only! The author will not be held responsible for any illegal activity by you. By using this software, you agree to these terms.
 
-## Donate!
-
-### PayPal: https://bit.ly/3QKknix
-
-#### Thanks to Original Author of the Tools used in hackingtoolkit
-
-<img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>Please Don't Use for illegal Activity</h4>
 
 #### Don't Forgot to share with Your Friends 
